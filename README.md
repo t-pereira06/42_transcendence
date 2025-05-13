@@ -38,7 +38,7 @@ POSTGRES_PASSWORD=Password!123
 ```
 
 ### 3. Build and Run with Docker
-To compile the and run the program:
+To compile and run the program:
 ```bash
 make
 ```
